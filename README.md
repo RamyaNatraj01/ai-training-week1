@@ -1,1 +1,1 @@
-training week1
+training week2
